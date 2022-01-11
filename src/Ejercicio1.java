@@ -1,4 +1,8 @@
+
+//Ejercicios hemos en conjunto por Luis Gonzales, Guillermo Vallejo y Martin Cardoan
+
 public class Ejercicio1 {
+
 	public static void main(String[] args) {
 		int[] listado1 = { 6, 2, 3, 1, 4, 5, 7 };
 		int[] listado2 = { 1, 2, 3, 4, 5, 6, 7 };
